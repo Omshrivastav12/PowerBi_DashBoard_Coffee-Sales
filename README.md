@@ -64,18 +64,5 @@ This project features a robust and user-friendly dashboard that visualizes key p
 - **Dashboard Design:** [Power BI Dashboard Features]
 - **Data Source:** [CSV]
 
-## 📈 Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/sales-analysis-dashboard.git
-   ```
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Load Data:** Import your data file(s) into the dashboard.
-4. **Customize KPIs and Charts:** Adjust slicers and filters to analyze specific time periods or categories.
-
 ## 📢 Contributing
     Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
